@@ -3,6 +3,8 @@ This file ranks 769 college football teams based on the scores of every game in 
 
 M[A, A] = M[A, A] + l{A wins} + point_A / (point_A + point_B)
 
+M[A, B] = M[A, B] + l{B wins} + point_B / (point_A + point_B)
+
 M[B, A] = M[B, A] + l{A wins} + point_A / (point_A + point_B)
 
 M[B, B] = M[B, B] + l{B wins} + point_B / (point_A + point_B)
