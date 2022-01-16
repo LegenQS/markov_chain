@@ -1,0 +1,112 @@
+-------------------------------
+Table 1
+Rank  Team Name          w_t value      
+1     NorthCentral       0.01281        
+2     LSU                0.01258        
+3     Morningside        0.01151        
+4     Wheaton            0.01109        
+5     MinnSt-Mankato     0.00963        
+6     Muhlenberg         0.00951        
+7     OhioState          0.00924        
+8     UW-Whitewater      0.00917        
+9     NorthDakotaSt      0.00914        
+10    Clemson            0.00894        
+11    WestFlorida        0.00878        
+12    MarianIN           0.00852        
+13    StJohnsMN          0.00849        
+14    MountUnion         0.00765        
+15    FerrisSt           0.00712        
+16    GrandView          0.00711        
+17    Georgia            0.00701        
+18    MaryHardin-Baylor  0.00678        
+19    Lenoir-Rhyne       0.00616        
+20    SlipperyRock       0.00609        
+21    Oregon             0.0059         
+22    DelawareValley     0.00584        
+23    JamesMadison       0.00567        
+24    ValdostaSt         0.00554        
+25    Florida            0.00544        
+-------------------------------
+Table 2
+Rank  Team Name       w_t value      
+1     LSU             0.04364        
+2     Wheaton         0.02582        
+3     NorthCentral    0.02444        
+4     Clemson         0.0237         
+5     OhioState       0.02269        
+6     Morningside     0.02262        
+7     Georgia         0.01716        
+8     StJohnsMN       0.01499        
+9     WestFlorida     0.01337        
+10    Alabama         0.01292        
+11    UW-Whitewater   0.01284        
+12    Florida         0.01244        
+13    Muhlenberg      0.01124        
+14    Oregon          0.01053        
+15    Auburn          0.01002        
+16    Oklahoma        0.01001        
+17    MinnSt-Mankato  0.00975        
+18    MarianIN        0.00958        
+19    PennState       0.00953        
+20    ValdostaSt      0.00889        
+21    Lenoir-Rhyne    0.00807        
+22    Wisconsin       0.00802        
+23    NotreDame       0.00787        
+24    Minnesota       0.00753        
+25    GrandView       0.00752        
+-------------------------------
+Table 3
+Rank  Team Name      w_t value      
+1     LSU            0.08442        
+2     Clemson        0.04553        
+3     OhioState      0.04345        
+4     Georgia        0.03272        
+5     Alabama        0.02468        
+6     Florida        0.0237         
+7     Oregon         0.01927        
+8     Auburn         0.01904        
+9     Oklahoma       0.0187         
+10    PennState      0.01797        
+11    Wisconsin      0.01516        
+12    NotreDame      0.01465        
+13    Minnesota      0.0142         
+14    Baylor         0.0127         
+15    Michigan       0.01205        
+16    Utah           0.0117         
+17    Memphis        0.01166        
+18    Iowa           0.01101        
+19    AppalachianSt  0.01092        
+20    Texas          0.01019        
+21    NorthDakotaSt  0.00922        
+22    Navy           0.00907        
+23    TexasA&M       0.00893        
+24    BoiseSt        0.00831        
+25    KansasSt       0.00733        
+-------------------------------
+Table 4
+Rank  Team Name      w_t value      
+1     LSU            0.09137        
+2     Clemson        0.04926        
+3     OhioState      0.04701        
+4     Georgia        0.03538        
+5     Alabama        0.0267         
+6     Florida        0.02562        
+7     Oregon         0.02078        
+8     Auburn         0.02058        
+9     Oklahoma       0.0202         
+10    PennState      0.01943        
+11    Wisconsin      0.01639        
+12    NotreDame      0.01582        
+13    Minnesota      0.01535        
+14    Baylor         0.01372        
+15    Michigan       0.01302        
+16    Utah           0.01262        
+17    Memphis        0.01259        
+18    Iowa           0.01189        
+19    AppalachianSt  0.01179        
+20    Texas          0.011          
+21    Navy           0.00979        
+22    NorthDakotaSt  0.00972        
+23    TexasA&M       0.00966        
+24    BoiseSt        0.00894        
+25    KansasSt       0.00792        
